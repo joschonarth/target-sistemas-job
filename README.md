@@ -4,7 +4,7 @@
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-> [Resposta:]() 
+> [Resposta:](fibonacci.py) 
 
 --- 
 
@@ -12,7 +12,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
-> [Resposta:]() 
+> [Resposta:](letra_A.py) 
 
 --- 
 
@@ -21,7 +21,7 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
 Ao final do processamento, qual será o valor da variável SOMA?
 
 > Resposta: 77
-> [Código: ]()
+> [Código: ](desafio3.py)
 
 --- 
 
