@@ -4,7 +4,7 @@
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-> [Resposta:](fibonacci.py) 
+> Resposta: [clique](fibonacci.py) 
 
 --- 
 
@@ -12,7 +12,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
-> [Resposta:](letra_A.py) 
+> Resposta: [clique]](letra_A.py) 
 
 --- 
 
@@ -21,7 +21,8 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
 Ao final do processamento, qual será o valor da variável SOMA?
 
 > Resposta: 77
-> [Código: ](desafio3.py)
+
+> Código: [clique](desafio3.py)
 
 --- 
 
@@ -57,3 +58,5 @@ f) 2, 10, 12, 16, 17, 18, 19, ____
 --- 
 
 **5)** Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada? 
+
+> Resposta: Levando em consideração que eu seja alto, ou a sala baixa, o suficiente para alcançar a lâmpada com a mão, ligaria um interruptor e deixaria ligado por alguns minutos, a fim de fazer com que a lâmpada esquente. Após isso, ligaria outro interruptor e iria até as salas. A sala que estivesse com a luz acessa teria sua lampada controlado pelo segundo interruptor ligado e a que estivesse com a lampada quente seria a controlada pelo primeiro interruptor. A lampada da sala que restou seria a controlada pelo interruptor que não foi acionado. 
