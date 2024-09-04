@@ -12,7 +12,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
-> Resposta: [clique]](letra_A.py) 
+> Resposta: [clique](letra_A.py) 
 
 --- 
 
